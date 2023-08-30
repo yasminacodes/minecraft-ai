@@ -1,0 +1,12 @@
+opencv-python
+numpy
+tensorflow
+keyboard
+pyautogui
+random2
+pytesseract
+imutils
+Pillow
+tk
+pyobjc-framework-Quartz
+pyobjc-framework-Cocoa
