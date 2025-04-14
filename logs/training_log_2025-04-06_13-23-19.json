@@ -1,0 +1,9 @@
+{
+    "datetime": "2025-04-06_13-23-19",
+    "episodes_done": 5,
+    "steps_per_episode": 5,
+    "episode_rewards": [
+        0.0033395543578147425
+    ],
+    "average_reward": 0.0033395543578147425
+}

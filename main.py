@@ -12,7 +12,7 @@ def main():
         screen, shape = seg.selectWindow()
 
         print("Configuring model...")
-        player.configModelToTrain(screen, shape, 5, 5)
+        player.configModelToTrain(screen, shape, 100, 100)
         print("Model configured: starting training")
 
         training = True
